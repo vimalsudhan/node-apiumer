@@ -1,0 +1,24 @@
+{
+  "name": "apiumer",
+  "version": "0.0.1",
+  "description": "A simple REST API framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimalsudhan/node-apiumer.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "framework"
+  ],
+  "author": "Vimal Sudhan <vimalsudhan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vimalsudhan/node-apiumer/issues"
+  },
+  "homepage": "https://github.com/vimalsudhan/node-apiumer#readme"
+}
